@@ -1,0 +1,33 @@
+{
+  "packages": [
+    {
+      "name": "groundstudio-jade",
+      "maintainer": "GroundStudio",
+      "websiteURL": "https://groundstudio.ro/",
+      "email": "office@groundstudio.ro",
+
+      "platforms": [        
+        {
+          "name": "GroundStudio Jade Boards",
+          "architecture": "avr",
+          "version": "1.0.0",
+          "category": "Contributed",
+          "help": {
+            "online": "https://github.com/GroundStudio/Jade"
+          },
+          "url": "https://github.com/GroundStudio/Jade/archive/refs/tags/V1.0.0.zip",
+          "archiveFileName": "Jade-1.0.0.zip",
+          "checksum": "SHA-256:68a79652fee93ff18c8077718491057ebf614e691b8bf049346f16dd44172cd4",
+          "size": "50212",
+          "boards": [
+            
+            {"name": "GroundStudio Jade Nano+"}            
+          ],
+          "toolsDependencies": []
+        }
+      ],
+
+      "tools": []
+    }
+  ]
+}
