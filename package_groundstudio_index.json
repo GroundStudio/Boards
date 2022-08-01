@@ -40,7 +40,7 @@
           "boards": [
             
             {"name": "GroundStudio Jade Nano+"},
-			{"name": "GroundStudio Jade Pro Micro"},
+			{"name": "GroundStudio Jade Pro Micro"}
           ],
           "toolsDependencies": []
         }
