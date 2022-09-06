@@ -73,8 +73,8 @@
           },
           "url": "https://github.com/GroundStudio/Jade/archive/refs/tags/V1.0.3.zip",
           "archiveFileName": "Jade-1.0.3.zip",
-          "checksum": "SHA-256:0bd69b0ec6ea659079cec5e10719b5c738a9d0fdeac335af5f957c7a69c4641d",
-          "size": "125349",
+          "checksum": "SHA-256:19a8336d2ac510e3f6fa2435725bd2e30ff5b824a1fd420d38cec2d77201e541",
+          "size": "125365",
           "boards": [
             
             {"name": "GroundStudio Jade Nano+"},
