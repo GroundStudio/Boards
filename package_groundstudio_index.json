@@ -81,7 +81,28 @@
 			{"name": "GroundStudio Jade Pro Micro"}
           ],
           "toolsDependencies": []
-        }
+        },
+		{
+          "name": "GroundStudio Jade Boards",
+          "architecture": "avr",
+          "version": "1.0.4",
+          "category": "Contributed",
+          "help": {
+            "online": "https://github.com/GroundStudio/Jade"
+          },
+          "url": "https://github.com/GroundStudio/Jade/archive/refs/tags/V1.0.4.zip",
+          "archiveFileName": "Jade-1.0.4.zip",
+          "checksum": "SHA-256:CEED0754686DB9A69C436999DDDF93F323F8CB965315A835E79D40119ABAE167",
+          "size": "127822",
+          "boards": [
+            
+            {"name": "GroundStudio Jade Nano+"},
+			{"name": "GroundStudio Jade Uno+"},
+			{"name": "GroundStudio Jade Pro Micro"}
+          ],
+          "toolsDependencies": []
+        },
+		
       ],
 
       "tools": []
